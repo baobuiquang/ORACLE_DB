@@ -1,0 +1,3 @@
+{"results":[{"columns":[{"name":"DocumentTemplateId","type":"RAW"},{"name":"ParentDocumentTemplateId","type":"RAW"},{"name":"Tag","type":"NVARCHAR2"},{"name":"Status","type":"NUMBER"},{"name":"Description","type":"NVARCHAR2"},{"name":"CreateDate","type":"DATE"},{"name":"CreateUserId","type":"NVARCHAR2"},{"name":"UpdateDate","type":"DATE"},{"name":"UpdateUserId","type":"NVARCHAR2"},{"name":"LanguageId","type":"NVARCHAR2"},{"name":"UnitCode","type":"NVARCHAR2"},{"name":"DocumentTemplate_Id","type":"RAW"}],"items":
+[
+]}]}

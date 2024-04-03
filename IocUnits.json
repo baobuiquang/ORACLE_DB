@@ -1,0 +1,151 @@
+{"results":[{"columns":[{"name":"Id","type":"RAW"},{"name":"Name","type":"NVARCHAR2"},{"name":"Tag","type":"NVARCHAR2"},{"name":"Status","type":"NUMBER"},{"name":"Description","type":"NVARCHAR2"},{"name":"CreateDate","type":"DATE"},{"name":"CreateUserId","type":"NVARCHAR2"},{"name":"UpdateDate","type":"DATE"},{"name":"UpdateUserId","type":"NVARCHAR2"},{"name":"LanguageId","type":"NVARCHAR2"},{"name":"UnitCode","type":"NVARCHAR2"}],"items":
+[
+{"id":"EB800A14FBECC746A3CC5C929A020F34","name":"Số vụ","status":1,"createdate":"07\/09\/23"}
+,{"id":"AE8762C1CF7643B9943B9F4C5330A0A3","name":"1\/100.000","status":1,"createdate":"18\/07\/19","unitcode":"LDG"}
+,{"id":"8F45D2520D35449FA23CDECB38A8A27B","name":"Giấy công bố","status":1,"createdate":"18\/07\/19","unitcode":"LDG"}
+,{"id":"E590C7CBEE414E4D9C65D9F3E19FCFE2","name":"Lượt\/ người","status":1,"createdate":"08\/09\/23"}
+,{"id":"BDB6E56ECB0549F1B066C46506223820","name":"Ca","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E8A6B708584B4905A34D0105E233A294","name":"Bác sĩ\/vạn dân","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"074C3863A2034E829BAC1A52D4BF656D","name":"Dược sỹ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"17B876698E2240FABE32D10394899259","name":"GB\/vạn dân","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"BA2A51AE04CE4920B8EF4E953B5128E4","name":"Nhiệm vụ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"4BC43908EEBA42F4A3156F602B397BAE","name":"Đề tài","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E69DB842CAC642E290984705AA02560B","name":"Bài báo","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"B5B8FCC62053485C80F06D9BA8015A21","name":"Vật tư\/thuốc","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"6989E8AEA4C64013A45CFE09963255FB","name":"Trang thiết bị","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C60208B3E52F48A6ACD895C9E3245D8A","name":"Nhu yếu phẩm","status":1,"createdate":"16\/07\/19","unitcode":"LDG"}
+,{"id":"9F625F01F944449D924394E83275F2AC","name":"Công trình","status":1,"createdate":"16\/07\/19","unitcode":"LDG"}
+,{"id":"E31CA8ED90F5CE47BDDE83D7D198CB6E","name":"Buồng","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E29CA8ED90F5CE47BDDE83D7D198CB6E","name":"Lượt khách","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E30CA8ED90F5CE47BDDE83D7D198CB6E","name":"Ngày khách","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E32CA8ED90F5CE47BDDE83D7D198CB6E","name":"Giường","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"CC94E0549DE6475990BB3750DB0908A6","name":"Giấy phép","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"F72190AFE5904E2F9EF51FF886C203A6","name":"T\/h","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C06858D858B94BF48A50F1A46CEF8664","name":"Hộ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05878D858B94BF48A50F1A46CEF8663","name":"Đợt","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05888D858B94BF48A50F1A46CEF8663","name":"Thẻ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05898D858B94BF48A50F1A46CEF8663","name":"Bệnh nhân","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A50F1A46CEF8693","name":"P\/a","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"5CF6CC9937D6433EAF709E6BC0449FBB","name":"TCU","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"5CF6CC9937D6433EAF719E6BC0449FBB","name":"NTU","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"5CF6CC9937D6433EAF729E6BC0449FBB","name":"mg\/l","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"5CF6CC9937D6433EAF739E6BC0449FBB","name":"VK\/100ml","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"5CF6CC9937D6433EAF749E6BC0449FBB","name":"Vùng\/điểm","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"65CA576ABE14DD42804FA783C8722489","name":"%","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"136A1D2F7F7A214D813356485AA9F79C","name":"USD","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"938EEEE0C4A84A8EAFB333EF6A35EB87","name":"Ngày","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A51F1A46CEF8663","name":"Biên bản","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A52F1A46CEF8663","name":"Tụ điểm","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"136A1D2F7F7A214D813356485AA9F79B","name":"H\/s","status":1,"createdate":"01\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E33CA8ED91F5CE47BDDE83D7D198CB6E","name":"Số lượng","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"136A1D2F7F7A214D813322485AA9F79C","name":"Triệu\/người\/năm","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"40C76E253199459490B604C65A362C4C","name":"Lượt","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"70661FCA99364493878AC9C5BACAC7C8","name":"Tỷ đồng","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"7594EAFA7A184312A540D4590A5A7AE9","name":"Tr đồng","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"379677D6604B4891B8CB60C9E01CA10B","name":"Lao động","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"00A52DAAE1FB4BBAB3AB0CF0CCE4FF82","name":"Ha","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"764BA682F9514771956179855D4BAA4D","name":"Con","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"0351252CB10D4CB2B0BCAB47D62464E2","name":"Vụ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"A73115F0077541DDB4AE723D7C4A77D6","name":"m2","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"69256EF6C76B406997436E04CD78287A","name":"m3","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"EFB74E7FAFDE467AA416344F6C497CA9","name":"Giấy","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"63188CBEA83F4AD3B5D9E39435B90AD2","name":"trường","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"F40F0E37CF224DD790B1CE1D0B20FD7B","name":"lớp","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"8E2D1F0A13CE4B6C8107AE975A45B0DB","name":"cơ sở","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"A62E643A0A5B462BA92176A4C97365D5","name":"Người","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"5CF6CC9937D6433EAF949E6BC0449FBB","name":"Đơn","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"425D0829AC5642DC8AE3E6B6B9123FA8","name":"Triệu USD","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"B7483B142D2669BD9CC30FDA4460A7D6","name":"GCN","status":1,"createdate":"11\/11\/19","unitcode":"LDG"}
+,{"id":"E31CA8ED91F5CE47BDDE83D7D198CB6E","name":"Học sinh","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED92F5CE47BDDE83D7D198CB6E","name":"Trường","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"67EF17B3B873436ABD3A47D35F94943A","name":"Dự án","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E31CA8ED94F5CE47BDDE83D7D198CB6E","name":"Bằng","status":11,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED92F5CE47BDDE83D8D198CB6E","name":"Tổ chức","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED92F5CE47BDDE83D9D198CB6E","name":"Cây","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E31CA8ED92F5CE47BDDE84D9D198CB6E","name":"Nhà","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A50F2A46CEF8663","name":"Điểm","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A51F1A46CEF8666","name":"Lượt\/người","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A50F1A46CEF8663","name":"đồng","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"B7483B142D2649BD9CC30FDA4460A7D6","name":"Q\/đ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"A73115F0077541DDB4AE724D7C4A77D6","name":"Chiếc","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A50F1A46CEF8664","name":"1.000đ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"A73115F0077542DDB4AE723D7C4A77D6","name":"Cuộc","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"A73115F0077543DDB4AE723D7C4A77D6","name":"Tờ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"A73115F0077544DDB4AE723D7C4A77D6","name":"Thôn","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A50F1A46CEF8674","name":"Cá thể","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"50C76E253199459490B604C65A362C4C","name":"Lượt đối tượng","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"CC94E0549DE6475990BB3750DB0908A7","name":"Giáo viên","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A50F2A46CEF8673","name":"Đêm","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E31CA8ED90F5CE47BDDE85D7D198CB6E","name":"Thiết bị","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED90F6CE47BDDE83D7D198CB6E","name":"Xe","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED90F7CE47BDDE83D7D198CB6E","name":"Bác sỹ","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED90F8CE47BDDE83D7D198CB6E","name":"Y tá","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"C05858D858B94BF55A51F1A46CEF8666","name":"Số lần","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E65CA8ED90F5CE47BDDE85D7D198CB6E","name":"Ngàn đồng","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED90F5CE47BDDE83D7D198CB7E","name":"m2\/km2","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED90F5CE47BDDE83D7D198CB8E","name":"Kỳ","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"C05858D858B94BF28A51F1A46CEF8663","name":"Triệu đồng\/ Hộ","status":1,"createdate":"15\/07\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"C05858D858B94BF58A51F1A46CEF8663","name":"Triệu đồng\/ HSSV","status":1,"createdate":"15\/07\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E31CA8ED90F5CE47BDDE83D7D208CB6E","name":"Vb","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"00277C1DDCF049C2933A0ADC8819D0C3","name":"Hồ sơ","status":1,"createdate":"05\/11\/21"}
+,{"id":"C05858D858B94BF48A50F1A46CEF8687","name":"Mẫu","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"69B78018853746FCA99FD63EF794A46A","name":"Xã","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"024683CFAF084367B9DE69D6BAEC4F95","name":"HTX","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"05194845EE6C4DE2A57BF1C65E193F4C","name":"Sản phẩm","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"74D5ADB596F745F291A66BE5AA724875","name":"Trang trại","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"8B65CB7A3B6BF04E8110F22049691FAA","name":"Hs","status":1,"createdate":"27\/07\/23"}
+,{"id":"D9D9CA53546F4DAB916DB3C7DEC1655D","name":"BN\/giường","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"1A6549B172A0437EBA6060A06A5F5873","name":"Tiêu bản","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"4FBDA28E366FF44A8D1397648A80D40A","name":"Văn bản","status":1,"createdate":"17\/08\/23"}
+,{"id":"01F0451CDCB9C348A3F80FB5DA182693","name":"Triệu đồng","status":1,"createdate":"14\/09\/23"}
+,{"id":"D53C5EA9C1D8408E854DF361DB760B79","name":"Trạm","status":1,"createdate":"20\/07\/19","unitcode":"LDG"}
+,{"id":"456A1D2F7F7A214D813356485AA9F79C","name":"1\/1000","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A52F1A46CEF8642","name":"Số trẻ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"0351252CB10D4CB2B0BCAB47D62432E2","name":"Viên","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E31CA8ED94F5CE47BDDE83D7D121CB6E","name":"Buổi","status":11,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A52F1A46CEF8656","name":"Số","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A52F1A46CEF8690","name":"Lần","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"C05858D858B94BF48A52F1A46CEF8686","name":"P\/sự","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE25BDDE32D7D766CB6E","name":"Chứng chỉ","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE25BDDE83D7D788CB6E","name":"Quyết định","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE25BDDE32D7D744CB6E","name":"Kỹ thuật","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE25BDDE32D7D711CB6E","name":"Cơ sở","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE25BDDE32D7D722CB6E","name":"Tấn","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE11BDDE32D7D722CB6E","name":"Hệ thống","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE22BDDE32D7D722CB6E","name":"Lò đốt","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE33BDDE32D7D722CB6E","name":"m3\/ ngày","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE44BDDE32D7D722CB6E","name":"Huyện,TP","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE55BDDE32D7D722CB6E","name":"Doanh nghiệp","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE66BDDE32D7D722CB6E","name":"Hộ gia đình","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE77BDDE32D7D722CB6E","name":"Đơn vị","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE88BDDE32D7D722CB6E","name":"Hoạt động","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE99BDDE32D7D722CB6E","name":"Lớp","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E74CA8ED90F5CE00BDDE32D7D722CB6E","name":"NMN","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"E0EB21DC1B530646B354DE54C9735036","name":"Giường bệnh\/vạn dân","status":1,"createdate":"25\/09\/23"}
+,{"id":"65270D6DDE5B48A7BBF60CB889CA3DDB","name":"Xếp hạng","status":1,"createdate":"07\/09\/23"}
+,{"id":"D4B315BED0384DE1924B7EB9A1EE82A3","name":"Hộ","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"DBA42EBD9FC24E189D316AF5088B15CA","name":"km","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"BBD86CD7115B4B91A24A1AF9ADC29CEC","name":"m3\/ngđ","status":1,"createdate":"30\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"908F5F082BE0B948B178E8E847B054D9","name":"Km","status":1,"createdate":"15\/11\/23"}
+,{"id":"C4DE99EB6AA943B89BCFCEECF8F54F8E","name":"Lô","status":1,"createdate":"15\/11\/23"}
+,{"id":"74E8B9EBCECE47F7B00BE9A65EC4CAA0","name":"Căn","status":1,"createdate":"15\/11\/23"}
+,{"id":"038828F126564E80A42853F5594E4D0B","name":"m2\/người","status":1,"createdate":"15\/11\/23"}
+,{"id":"8E1703175FE8404EA9D429D1E205CF05","name":"1000 m3","status":1,"createdate":"15\/07\/19"}
+,{"id":"0442124D7C7A45E49CDB5ED201A0CE33","name":"1000 viên","status":1,"createdate":"15\/07\/19"}
+,{"id":"82F767E558E743FEB35EC2922C0DF26B","name":"1000 tấn","status":1,"createdate":"15\/07\/19"}
+,{"id":"17EE244ED7CD429A91A100B5C7DF4534","name":"Bồn","status":1,"createdate":"15\/07\/19"}
+,{"id":"48F0F16D9B804C06BFC1718269BABC55","name":"Lit","status":1,"createdate":"15\/07\/19"}
+,{"id":"3AFE5B22828842F78FD9E982FD282FDE","name":"MST","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"FB0E5FF50AF17A47BC1603332C247247","name":"Chưa có","status":1,"createdate":"02\/04\/24"}
+,{"id":"7CF14ABAB4114F659A42565B2BDD8C63","name":"MH","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"F504708ADA064FF38C2966131DD15FFE","name":"CLB","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"2DA0B5CE4090430885522C777BA59440","name":"Làng","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"0AFB2141EF5A41D7BB1CB8AB51515553","name":"TC","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"45390ACFEBFC43AE84A1F7E03D696FC5","name":"Lễ Hội","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"7B8ED3CF9A3A4435AC653F4F7A59A13D","name":"LHHTX","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"372C294FC8D24FEA882995ED96B3FE57","name":"Ngàn khách","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"9800722D31AB45EC90190ADF2BC0C7B9","name":"Phản ánh","status":1,"createdate":"07\/09\/23"}
+,{"id":"C5B4F2F8439B456B8447E350AD355DDF","name":"Triệu kwh","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"67AB18796AED42D39BC4115A4C681CD7","name":"TDP","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+,{"id":"1EE9453CFD2744A6B2A5D01F6AAED5C4","name":"Thôn, TDP","status":1,"createdate":"15\/07\/19","unitcode":"LDG"}
+]}]}
