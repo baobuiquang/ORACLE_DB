@@ -1,0 +1,70 @@
+{"results":[{"columns":[{"name":"Id","type":"RAW"},{"name":"Name","type":"NVARCHAR2"},{"name":"CodeId","type":"NVARCHAR2"},{"name":"FieldId","type":"RAW"},{"name":"Tag","type":"NVARCHAR2"},{"name":"Status","type":"NUMBER"},{"name":"Description","type":"NVARCHAR2"},{"name":"CreateDate","type":"DATE"},{"name":"CreateUserId","type":"NVARCHAR2"},{"name":"UpdateDate","type":"DATE"},{"name":"UpdateUserId","type":"NVARCHAR2"},{"name":"LanguageId","type":"NVARCHAR2"},{"name":"UnitCode","type":"NVARCHAR2"}],"items":
+[
+{"id":"3D00C9119A2ABA47BC9DF0DB228F848A","name":"Cấp giấy Chứng nhận kinh doanh","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"78CBF5448E35A044B7987AE657EDE77E","name":"Cấp mới","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"919B86DA4B2CC54BB9484DA1C063C79E","name":"Cấp lại","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"F1608064770A56469D7F5501FF8E21A8","name":"Trật tự xây dựng","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"B868D4805C739B4BB2E5CEEFF42445A6","name":"Trật tự đô thị","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"CF612C2012D8B340A79B0DC0044CEB70","name":"An ninh trật tự","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"EE8739D680D3744ABBE711EBB4F99025","name":"Giá cả thị trường","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"7DA957A9BC61AA47875A05C0DF3B9883","name":"An toàn vệ sinh thực phẩm","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"039E77417C0D2C4880330D71F5A7D416","name":"Văn hóa","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"CE315FE6B54A9E44B26BEEFF3328C405","name":"Mỹ quan thành phố","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"F271CBACA806854C8BCF81447A0187D6","name":"Lấn chiếm lòng lề đường","codeid":"olab","status":1,"createdate":"07\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"F07E7F2F342E4F9C9DFAF9D954C05E87","name":"Nông nghiệp","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C721360AE","name":"Lưu trú","codeid":"1","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"F1E0AA9E16404F98B4D2C18F57261731","name":"Chăn nuôi","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"B4B8A370E86148EAAB137F1112BA26D5","name":"Lâm nghiệp","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"B2F6E749AC234B7B8FF41F48CA44946B","name":"Thủy lợi và phòng chống thiên tai","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"D8461CAA5A6C4A86BE3E40BC61CFAEE0","name":"Sản xuất công nghiệp","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC3EE383E6458C556B2C721360AE","name":"Kinh tế","codeid":"4","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"7094446736D5A3429468B40B4C1B4CB1","name":"Thay đổi","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"6FD2F1122DB2D94DB50F679EAB9F0918","name":"Tạm dừng","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"C6418E4D1F5371449C357C9307F8741A","name":"Chấm dứt","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"FE0463DECC434524934581F69898DFF5","name":"Quản lý rừng nội ô","codeid":"4","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"B3B6A7FCFBB547878F3E56F38CEB5926","name":"Kinh tế xã hội - An ninh quốc phòng (Cấp Phường\/Xã)","codeid":"5","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6459C556B2C721360AE","name":"Giáo dục","codeid":"3","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE01","name":"Công chứng","codeid":"iGate.001","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE02","name":"Tư pháp","codeid":"iGate.002","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE03","name":"LĐTBXH-Bảo trợ CSTE - Cấp xã","codeid":"iGate.003","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE04","name":"Lao động, Thương binh và Xã hội","codeid":"iGate.004","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE05","name":"Y tế","codeid":"iGate.005","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE06","name":"LĐTBXH-Người có công - Cấp xã","codeid":"iGate.006","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE07","name":"Tôn giáo","codeid":"iGate.007","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE08","name":"Thi đua khen thưởng (cấp xã)","codeid":"iGate.008","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE09","name":"Văn hóa xã hội","codeid":"iGate.009","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE10","name":"LĐTB-XH - Người có công","codeid":"iGate.010","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE11","name":"Tài chính","codeid":"iGate.011","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE12","name":"Tư pháp - Liên thông (Cấp xã)","codeid":"iGate.012","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE13","name":"Tài nguyên Môi trường (Cấp xã)","codeid":"iGate.013","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE14","name":"Tư pháp - Chứng thực (Cấp xã)","codeid":"iGate.014","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE15","name":"Nội Vụ","codeid":"iGate.015","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE16","name":"Tài nguyên và môi trường","codeid":"iGate.016","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE17","name":"Kinh Tế - Công Thương","codeid":"iGate.017","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE18","name":"Giáo dục đào tạo (Cấp xã)","codeid":"iGate.018","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE19","name":"Hộ Tịch","codeid":"iGate.019","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE20","name":"Quản lý và Phát triển đô thị","codeid":"iGate.020","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE21","name":"Giáo dục phổ thông","codeid":"iGate.021","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE22","name":"Tư pháp - Hộ tịch (Cấp xã)","codeid":"iGate.022","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C546B2C7213AE23","name":"Kế hoạch - đầu tư","codeid":"iGate.023","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"3CBDAC2EE383E6458C556B2C721360AE","name":"IGate","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"1B6B696C8CBEA54A85B9BE955AF5773E","name":"Hoạt động","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"864FA84D25E514449C5C3F5D0C2249F3","name":"Giải thể","codeid":"newschool","status":1,"createdate":"15\/11\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"2B2E2097356B410C8199C640C2D39E9F","name":"Xây dựng cơ bản","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"AD75F90DE3084F1A8AE07F44AEA2FF00","name":"Thương mại dịch vụ","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"E32ABECC0ECA45658046E8AD37E0391D","name":"Nông thôn mới","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"B0B66E3F810F474B9D833648F2F4C8B0","name":"Thu chi ngân sách ","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"FE0463DECC434524934581F69898DFF4","name":"Đầu tư phát triển ","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"A3EF282C44E14B15AB188954465C5C1D","name":"Quản lý đô thị ","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"81C3BC5543CC4827B37AA0FE339ED33A","name":"Công trình trọng điểm","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"F12BF5359C844102B18D32AFCE250AF2","name":"Văn hóa - xã hội","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"B3B6A7FCFBB547878F3E56F38CEB5925","name":"An Ninh Quốc Phòng - Trật tự an toàn xã hội - Nội chính","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"44E93E473DE945BE859D835A5F2ADF25","name":"Xây dựng chính quyền - Cải cách hành chính","codeid":"2","status":1,"createdate":"31\/10\/19","languageid":"vi","unitcode":"LDG"}
+,{"id":"F8D46D32ECA6EF4CA7727B1FC76F7B43","name":"Bảo vệ rừng","codeid":"olab","status":1,"createdate":"11\/08\/20","languageid":"vi","unitcode":"LDG"}
+,{"id":"CDE01FFDB9C9E04A83EB5203909241B8","name":"Quản lý, bảo vệ rừng","codeid":"olab","status":1,"createdate":"13\/10\/20","languageid":"vi","unitcode":"LDG"}
+,{"id":"9965D51DF748B84A9D957767C90B2591","name":"An toàn giao thông, An ninh trật tự","codeid":"olab","status":1,"createdate":"13\/10\/20","languageid":"vi","unitcode":"LDG"}
+,{"id":"9F69D93380B0BC4DA2F840D499C022A8","name":"Vệ sinh an toàn thực phẩm","codeid":"olab","status":1,"createdate":"13\/10\/20","languageid":"vi","unitcode":"LDG"}
+,{"id":"3956BC7E6FFD6B4FBF382CADD502822E","name":"Văn hóa, du lịch","codeid":"olab","status":1,"createdate":"13\/10\/20","languageid":"vi","unitcode":"LDG"}
+,{"id":"228FBBE38C11144682CAA943C70CEC7C","name":"Môi trường","codeid":"olab","status":1,"createdate":"13\/10\/20","languageid":"vi","unitcode":"LDG"}
+,{"id":"1C8733E2E0A2DA4B9E203ABA610BF6E2","name":"Lĩnh vực khác","codeid":"olab","status":1,"createdate":"30\/03\/21","languageid":"vi","unitcode":"LDG"}
+]}]}
