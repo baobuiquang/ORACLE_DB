@@ -1,0 +1,9 @@
+{"results":[{"columns":[{"name":"Id","type":"RAW"},{"name":"Name","type":"NVARCHAR2"},{"name":"CodeId","type":"NUMBER"},{"name":"Tag","type":"NVARCHAR2"},{"name":"Status","type":"NUMBER"},{"name":"Description","type":"NVARCHAR2"},{"name":"CreateDate","type":"DATE"},{"name":"CreateUserId","type":"NVARCHAR2"},{"name":"UpdateDate","type":"DATE"},{"name":"UpdateUserId","type":"NVARCHAR2"},{"name":"LanguageId","type":"NVARCHAR2"},{"name":"UnitCode","type":"NVARCHAR2"}],"items":
+[
+{"id":"66E7CD39EA5AB94A9E4A44D7964734B8","name":"Cấp Huyện","codeid":2,"status":1,"createdate":"31\/10\/19"}
+,{"id":"F7961E4B7F1C69409A411E692414BB08","name":"Cấp Tỉnh","codeid":1,"status":1,"createdate":"31\/10\/19"}
+,{"id":"39F4CB542DD73F4380239028241E647B","name":"Chưa xác định","codeid":5,"status":1,"createdate":"31\/10\/19"}
+,{"id":"90D2E475F6A1FF448BCD8CEF263EF241","name":"Cơ quan khác","codeid":4,"status":1,"createdate":"31\/10\/19"}
+,{"id":"3476F1E24A2D1047824C930AFF57FE4F","name":"Cấp Bộ","codeid":0,"status":1,"createdate":"31\/10\/19"}
+,{"id":"846A2FEB7649844CBAA3712D69374A81","name":"Cấp Xã","codeid":3,"status":1,"createdate":"31\/10\/19"}
+]}]}
